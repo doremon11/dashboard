@@ -8,6 +8,8 @@
 # Google Datastudio
   Data Studio is a free tool that turns your data into informative, easy to read, easy to share, and fully customizable dashboards and reports. ... Annotate and brand your reports with text and images. Apply styles and color themes that make your data stories works of data visualization art.
   https://datastudio.google.com/u/0/navigation/reporting
+# Video 
+ https://youtu.be/Ly0wxp-E9xk
 # Refrences
 1) https://www.kaggle.com/sudalairajkumar/covid19-in-india
 2) https://github.com/owid/covid-19-data/tree/master/public/data
